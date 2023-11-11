@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Mateus
+#### System administrator, DevOps, Cloud
+![System administrator, DevOps, Cloud](https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg)
 
-<!--
-**M-HFM/M-HFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly dependable and committed worker focused on continuous learning and self-improvement. Being a Systems Administrator professional, experienced in Cloud and On-premises environments, and currently working on projects for small and midsize companies.
 
-Here are some ideas to get you started:
+Experienced and certified on cloud providers such as AWS, Azure, and OCI, as well as on Linux, Windows, Webservers (Apache, Nignix), Databases (Maria DB, MySql, Postgree SQL), Mail Services (Qmail, Microsoft Exchange, Zimbra), systems and servers monitoring, (PRTG, Zabbix, and Grafana).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Having a solid knowledge of customer support, and network administration. With a troubleshooter profile and hands-on so at work, my main roles are to analyze, project, and implement or indicate to clients the best way to host, maintain and improve performance, security, elasticity, and high availability in their applications using cloud and the best tools offered by the market.
+
+Skills: AWS / AZURE /LINUX  / C++/ FLUTTER  
+
+- 🔭 I’m currently working on JMAP E-mail infrastructure 
+- 🌱 I’m currently learning Flutter / shell script / python 
+- 📫 How to reach me: in/mateus-h-f-mello/ 
+
+
+
+
