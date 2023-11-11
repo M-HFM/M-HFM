@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mateus
 #### System Administrator, DevOps, Cloud
-![System Administrator, DevOps, Cloud](https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg)
+![System Administrator, DevOps, Cloud]([https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg](https://media.licdn.com/dms/image/D4D16AQGSF_5nd8-OsQ/profile-displaybackgroundimage-shrink_350_1400/0/1687195715199?e=1704931200&v=beta&t=_9EoRGvU0AHnfbYiJmxxVJ78uaNdta7ohLKo8AtpMZs))
 
 Highly dependable and committed worker focused on continuous learning and self-improvement. Being a Systems Administrator professional, experienced in Cloud and On-premises environments, and currently working on projects for small and midsize companies.
 
