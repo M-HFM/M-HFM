@@ -25,7 +25,7 @@ Skills: AWS / AZURE /LINUX  / C++/ FLUTTER
 
 ![GitHub metrics](https://metrics.lecoq.io/M-HFM)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=M-HFM)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=M-HFM&theme=transparent)  
 
 
 
