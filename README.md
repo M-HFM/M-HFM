@@ -16,9 +16,12 @@ Skills: AWS / AZURE /LINUX  / C++/ FLUTTER
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/M-HFM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateus-h-f-mello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@MMFullPlace)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mateus.hfmello.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-HFM)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-HFM&show_icons=true)  
+## GitHub stats:
+<div>
+<a href= "https://github.com/M-HFM">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-HFM&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-HFM&show_icons=true&theme=transparent"/>
+</div>
 
 ![GitHub metrics](https://metrics.lecoq.io/M-HFM)  
 
