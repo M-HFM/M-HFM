@@ -8,7 +8,7 @@ Experienced and certified on cloud providers such as AWS, Azure, and OCI, as wel
 
 Having a solid knowledge of customer support, and network administration. With a troubleshooter profile and hands-on so at work, my main roles are to analyze, project, and implement or indicate to clients the best way to host, maintain and improve performance, security, elasticity, and high availability in their applications using cloud and the best tools offered by the market.
 
-Skills: AWS / AZURE /LINUX  / C++/ FLUTTER  
+Skills: AWS / AZURE / LINUX / Ansible / Python / C++/ FLUTTER
 
 - 🔭 I’m currently working on JMAP E-mail infrastructure 
 - 🌱 I’m currently learning Flutter / shell script / python 
